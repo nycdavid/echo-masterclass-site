@@ -1,5 +1,5 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "Learn to Master THE Golang Web Framework"
+title = "Master THE Golang Web Framework"
 theme = "masterclass"
 gaTrackingId = "UA-111421177-2"
